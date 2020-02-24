@@ -1,0 +1,9 @@
+'name':'SERVER'// Tên project, nên đặt giống tên folder
+'version':0.0.1,
+'private':true,
+// Các module muốn cài
+'dependencies':{
+	'experss':'*'
+
+
+}
